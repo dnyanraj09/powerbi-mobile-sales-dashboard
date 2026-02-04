@@ -23,6 +23,11 @@ Support data-driven decision making
 ✅ Monthly & Daily Trend Analysis
 ✅ Customer Rating Analysis
 
+📁 Mobile-Sales-Dashboard
+ ├── Mobile_Sales_Dashboard.pbix
+ ├── Mobile Sales Data.xlsx
+ ├── Screenshots/
+ └── README.md
 
 🛠️ Tools & Technologies Used
 
